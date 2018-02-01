@@ -8,3 +8,13 @@ C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT
 C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Labøvelser\Lab1\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CoreCompileInputs.cache
 C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Labøvelser\Lab1\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
 C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Labøvelser\Lab1\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.dll
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.pdb
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.dll
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.pdb
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb
