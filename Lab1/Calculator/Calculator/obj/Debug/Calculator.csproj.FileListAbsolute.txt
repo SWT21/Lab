@@ -4,3 +4,9 @@ C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT
 C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Labøvelser\Lab1\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Labøvelser\Lab1\Calculator\Calculator\obj\Debug\Calculator.dll
 C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Labøvelser\Lab1\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\samir\Desktop\4.semester\SWT\Git\Lab1\Calculator\Calculator\obj\Debug\Calculator.pdb
