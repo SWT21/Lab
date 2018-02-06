@@ -10,7 +10,7 @@ namespace Calculator.Test.Unit
     [TestFixture]
     public class CalculatorTestUnit
     {
-        //mr. habibi
+        //mr. habibi OK
         [Test]
         public void Add_2plus6_Return_8()
         {
