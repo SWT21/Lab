@@ -1,0 +1,6 @@
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Test\Test\bin\Debug\Test.dll
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Test\Test\bin\Debug\Test.pdb
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Test\Test\obj\Debug\Test.dll
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Test\Test\obj\Debug\Test.pdb

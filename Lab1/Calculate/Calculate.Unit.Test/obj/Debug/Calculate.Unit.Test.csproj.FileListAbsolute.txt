@@ -1,0 +1,10 @@
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate.Unit.Test\bin\Debug\Calculate.Unit.Test.dll
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate.Unit.Test\bin\Debug\Calculate.Unit.Test.pdb
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate.Unit.Test\bin\Debug\Calculate.dll
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate.Unit.Test\bin\Debug\nunit.framework.dll
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate.Unit.Test\bin\Debug\Calculate.pdb
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate.Unit.Test\bin\Debug\nunit.framework.xml
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate.Unit.Test\obj\Debug\Calculate.Unit.Test.csprojResolveAssemblyReference.cache
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate.Unit.Test\obj\Debug\Calculate.Unit.Test.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate.Unit.Test\obj\Debug\Calculate.Unit.Test.dll
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate.Unit.Test\obj\Debug\Calculate.Unit.Test.pdb

@@ -1,0 +1,6 @@
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate\bin\Debug\Calculate.dll
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate\obj\Debug\Calculate.dll
+C:\Users\info\Desktop\Skydrives\GoogleDrive\Personlige filer\IKT\4. semester\SWT\Lab\Lab1\Calculate\Calculate\obj\Debug\Calculate.pdb
