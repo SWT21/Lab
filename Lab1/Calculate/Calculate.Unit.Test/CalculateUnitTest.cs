@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
 
-namespace Calculate.Test.Unit
+namespace Calculate.Unit.Test
 {
     [TestFixture]
     public class CalculateTestUnit
@@ -15,6 +15,15 @@ namespace Calculate.Test.Unit
         {
             var uut = new Calculator();
             Assert.That(uut.Add(2, 6), Is.EqualTo(8));
+
+        }
+
+        [Test]
+        public void Add_2plus8_Return_10()
+        {
+            var uut = new Calculator();
+            Assert.That(uut.Add(2, 8), Is.EqualTo(10));
+
         }
 
         [Test]
